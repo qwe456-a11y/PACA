@@ -14,7 +14,7 @@ Most existing physical adversarial attack methods for remote sensing object dete
 
 ### Dataset & Pre-trained Models
 - **Google Drive**: [Download Link](https://drive.google.com/drive/folders/your-folder-id?usp=sharing)
-- **Baidu Netdisk**: [Download Link]([https://pan.baidu.com/s/your-share-code](https://pan.baidu.com/s/1p7__8bK6Z99CisriupQpvw)) (Password: qwer)
+- **Baidu Netdisk**: [Download Link](https://pan.baidu.com/s/1p7__8bK6Z99CisriupQpvw) (Password: qwer)
 
 ### Pre-built Camouflage Texture Generator
 The core camouflage texture generator code is available in the `src/` directory of this repository.

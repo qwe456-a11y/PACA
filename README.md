@@ -1,7 +1,7 @@
 # PACA: 3D Physical Adversarial Camouflage for Aircraft in Remote Sensing
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/PACA?style=social)](https://github.com/your-username/PACA/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/your-username/PACA?style=social)](https://github.com/your-username/PACA/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/qwe456-a11y/PACA?style=social)](https://github.com/qwe456-a11y/PACA/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/qwe456-a11y/PACA?style=social)](https://github.com/qwe456-a11y/PACA/network/members)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 This repository provides the official implementation of the camouflage texture generator proposed in the paper **PACA: 3D Physical Adversarial Camouflage for Aircraft in Remote Sensing under Multi-View and Varying Weather Conditions**.
@@ -31,7 +31,7 @@ The core camouflage texture generator code is available in the `src/` directory 
 ## 🔧 Getting Started
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.6+
 - PyTorch 1.10+
 - CUDA 11.3+
 - Other dependencies:

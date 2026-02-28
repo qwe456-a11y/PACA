@@ -13,7 +13,7 @@ Most existing physical adversarial attack methods for remote sensing object dete
 ## 📥 Downloads
 
 ### Dataset & Pre-trained Models
-- **Google Drive**: [Download Link](https://drive.google.com/drive/folders/your-folder-id?usp=sharing)
+- **Google Drive**: [Download Link](https://drive.google.com/file/d/1CMJsnGwUMikdbI02R8udWmgzpI_MnZFq/view?usp=sharing)
 - **Baidu Netdisk**: [Download Link](https://pan.baidu.com/s/1p7__8bK6Z99CisriupQpvw) (Password: qwer)
 
 ### Pre-built Camouflage Texture Generator

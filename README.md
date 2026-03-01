@@ -48,3 +48,16 @@ python ./src/pacaTest.py \
   --output_dir \
   --batchsize 1 \
   --detector
+
+### Parameter Description
+
+| Parameter | Description |
+|-----------|-------------|
+| `--generator` | Path to generator model |
+| `--datapath` | Path to dataset |
+| `--obj` | Path to 3D object file |
+| `--faces` | Path to exterior_face file |
+| `--textures` | Path to texture file |
+| `--output_dir` | Output directory |
+| `--batchsize` | Batch size (default: 1) |
+| `--detector` | Target detector model(yolov5x) |
